@@ -1,0 +1,14 @@
+{
+  "name": "claude-code-agents-jp",
+  "displayName": "Claude Code 日本語エージェント集",
+  "description": "232体の専門AIサブエージェントを日本語で。エンジニアリング・マーケティング・営業・デザイン・セキュリティなど16部門の即戦力AIチームをClaude Codeにワンコマンドで導入。msitarzewski/agency-agents (The Agency) の日本語ローカライズ版 (MIT)。",
+  "version": "1.0.0",
+  "author": {
+    "name": "Kazuya Hibara",
+    "url": "https://github.com/Kazuya-Hibara"
+  },
+  "homepage": "https://github.com/Kazuya-Hibara/claude-code-agents-jp",
+  "repository": "https://github.com/Kazuya-Hibara/claude-code-agents-jp",
+  "license": "MIT",
+  "keywords": ["agents", "subagents", "japanese", "日本語", "claude-code", "ai-team"]
+}

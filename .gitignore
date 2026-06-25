@@ -1,0 +1,18 @@
+# OMC / agent session state (must never ship in the plugin)
+.omc/
+**/.omc/
+
+# internal-only (marketing swipe notes — not for public release)
+research/
+
+# build / run artifacts
+scripts/translate.log
+scripts/run.out
+scripts/docs.out
+agents/*.tmp
+docs/**/*.tmp
+
+# OS / editor
+.DS_Store
+*.swp
+node_modules/
