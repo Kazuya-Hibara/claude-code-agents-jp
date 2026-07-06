@@ -16,3 +16,8 @@ docs/**/*.tmp
 .DS_Store
 *.swp
 node_modules/
+
+# Personal Knowledge-OS scaffolding (internal-only, not for public release)
+hot.md
+AGENTS.md
+.claude/learnings.md
